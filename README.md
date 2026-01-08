@@ -27,3 +27,4 @@ Ideal para empresas y PyMEs que trabajan con reportes periódicos en Excel y des
 - `input/`: archivos Excel originales
 - `output/`: reportes generados
 - `scripts/`: scripts de automatización
+# Python-excel-automation
